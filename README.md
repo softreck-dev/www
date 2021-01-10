@@ -98,24 +98,5 @@ http://www.portfolio.softreck.com
 + zaplanujbiznes.pl - plan na ekspansje
 
 
-# Rozwiązania systemowe
-
-## Rozliczenia
-+ płatności barterowe
-+ rozliczenia czasowe
-+ NonFiat / NonCrypto
-
-## Media
-
-
-## Energetyka
-+ 
-+ słoneczne, Fotowoltaika
-+ wodne
-+ nadwyżki w innych krajach
-
-
-## Lobbing
-
 
 
