@@ -45,17 +45,17 @@ http://www.portfolio.softreck.com
 + faasapp.com
 
 
-# B
 
-## B2B ecosystem
+# B2B ecosystem
 
+## social media
 + founder.pl
++ daily.com.pl
 + foundation
 + opentowork
 + application
-+ mikrouslugi
-+ mikrotransakcje
-+ mikrokontrakty
++ harmonogram.pl
+
 
 ## streaming
 + cobrowsing
@@ -76,9 +76,23 @@ http://www.portfolio.softreck.com
 + modularyzacja
 + refaktoryzacja
 
+
+
+# informacyjne
+
++ incydenty
+
+
+# aggregatory
+
++ mikrouslugi
++ mikrotransakcje
++ mikrokontrakty
+
+
 ## Planowanie
 
-+ harmonogram.pl
+
 + planawaryjny.pl - awaria elementu organizacji
 + plankryzysowy.pl - kryzys systemu
 + planstrategii.pl - strategia dla biznesu
