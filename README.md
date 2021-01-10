@@ -53,7 +53,7 @@ http://www.portfolio.softreck.com
   
 # B2B ecosystem
 
-## social media
+## Social media
 + founder.pl
 + daily.com.pl
 + foundation
@@ -63,7 +63,7 @@ http://www.portfolio.softreck.com
 
 
 
-## zlecenia
+## Zlecenia
 + korepetytorzy
 + pogotowie.net
 + polyglot
@@ -71,15 +71,14 @@ http://www.portfolio.softreck.com
 + szybkitermin.pl
 + dobryprogramista.pl
 
-# aggregatory
+# Aggregatory
 
 + mikrouslugi
 + mikrotransakcje
 + mikrokontrakty
 
 
-
-# informacyjne
+# Informacyjne
 + incydenty
 
 
@@ -97,4 +96,26 @@ http://www.portfolio.softreck.com
 + plankryzysowy.pl - kryzys systemu
 + planstrategii.pl - strategia dla biznesu
 + zaplanujbiznes.pl - plan na ekspansje
+
+
+# Rozwiązania systemowe
+
+## Rozliczenia
++ płatności barterowe
++ rozliczenia czasowe
++ NonFiat / NonCrypto
+
+## Media
+
+
+## Energetyka
++ 
++ słoneczne, Fotowoltaika
++ wodne
++ nadwyżki w innych krajach
+
+
+## Lobbing
+
+
 
