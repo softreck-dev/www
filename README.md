@@ -53,6 +53,9 @@ http://www.portfolio.softreck.com
 + foundation
 + opentowork
 + application
++ mikrouslugi
++ mikrotransakcje
++ mikrokontrakty
 
 ## streaming
 + cobrowsing
