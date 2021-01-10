@@ -47,7 +47,7 @@ http://www.portfolio.softreck.com
 
 # B
 
-## B2B ecossytem
+## B2B ecosystem
 
 + founder.pl
 + foundation
