@@ -64,7 +64,6 @@ http://www.portfolio.softreck.com
 + harmonogram.pl
 + planawaryjny.pl - awaria elementu organizacji
 + plankryzysowy.pl - kryzys systemu
-+ planratunkowy.pl - ratunek dla organizacji
 + planstrategii.pl - strategia dla biznesu
 + zaplanujbiznes.pl - plan na ekspansje
 
