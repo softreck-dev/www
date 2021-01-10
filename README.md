@@ -20,13 +20,14 @@ http://www.portfolio.softreck.com
 + jloads.com
 + jruns.com
 
-## Apps
+## Apps / Tools
+
 + plainedit.com
 + promagen.com
 + devopsterminal.com
 + edit.ovh
 + editor.ovh
-
++ plainedit
 
 ## Libraries
 
@@ -44,8 +45,12 @@ http://www.portfolio.softreck.com
 + faas.shop
 + faasapp.com
 
-
-
+## streaming / communication
++ cobrowsing
++ webinairum.pl
+  + webcast.com.pl
+  
+  
 # B2B ecosystem
 
 ## social media
@@ -57,10 +62,6 @@ http://www.portfolio.softreck.com
 + harmonogram.pl
 
 
-## streaming
-+ cobrowsing
-+ webinairum.pl
-  + webcast.com.pl
 
 ## zlecenia
 + korepetytorzy
@@ -70,6 +71,18 @@ http://www.portfolio.softreck.com
 + szybkitermin.pl
 + dobryprogramista.pl
 
+# aggregatory
+
++ mikrouslugi
++ mikrotransakcje
++ mikrokontrakty
+
+
+
+# informacyjne
++ incydenty
+
+
 ## Trainings
 
 + modula.dev
@@ -78,21 +91,7 @@ http://www.portfolio.softreck.com
 + refaktoryzacja
 
 
-
-# informacyjne
-
-+ incydenty
-
-
-# aggregatory
-
-+ mikrouslugi
-+ mikrotransakcje
-+ mikrokontrakty
-
-
 ## Planowanie
-
 
 + planawaryjny.pl - awaria elementu organizacji
 + plankryzysowy.pl - kryzys systemu
