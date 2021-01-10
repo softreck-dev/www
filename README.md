@@ -68,6 +68,7 @@ http://www.portfolio.softreck.com
 + polyglot
 + zlece.net
 + szybkitermin.pl
++ dobryprogramista.pl
 
 ## Trainings
 
