@@ -55,16 +55,16 @@ http://www.portfolio.softreck.com
 
 ## Trainings
 
-modula.dev
-decentralizacja
-modularyzacja
-refaktoryzacja
++ modula.dev
++ decentralizacja
++ modularyzacja
++ refaktoryzacja
 
 ## Planowanie
-harmonogram.pl
-planawaryjny.pl - awaria elementu organizacji
-plankryzysowy.pl - kryzys systemu
-planratunkowy.pl - ratunek dla organizacji
-planstrategii.pl - strategia dla biznesu
-zaplanujbiznes.pl - plan na ekspansje
++ harmonogram.pl
++ planawaryjny.pl - awaria elementu organizacji
++ plankryzysowy.pl - kryzys systemu
++ planratunkowy.pl - ratunek dla organizacji
++ planstrategii.pl - strategia dla biznesu
++ zaplanujbiznes.pl - plan na ekspansje
 
