@@ -14,8 +14,8 @@ http://www.portfolio.softreck.com
 + apisql.com
 + apiunit.com
 
+## Subsystem for using jloads solution
 
-### Subsystem for using jloads solution
 + jbodys.com
 + jloads.com
 + jruns.com
@@ -46,14 +46,17 @@ http://www.portfolio.softreck.com
 + faasapp.com
 
 ## streaming / communication
+
 + cobrowsing
 + webinairum.pl
   + webcast.com.pl
   
   
+  
 # B2B ecosystem
 
 ## Social media
+
 + founder.pl
 + daily.com.pl
 + foundation
@@ -61,15 +64,16 @@ http://www.portfolio.softreck.com
 + application
 + harmonogram.pl
 
-
-
 ## Zlecenia
+
 + korepetytorzy
 + pogotowie.net
 + polyglot
 + zlece.net
 + szybkitermin.pl
 + dobryprogramista.pl
+
+
 
 # Aggregatory
 
