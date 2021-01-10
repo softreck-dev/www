@@ -28,13 +28,13 @@ http://www.portfolio.softreck.com
 + editor.ovh
 
 
-### Libraries
+## Libraries
 
 + pyfunc.com
 + phpfunc.com
 + javafunc.com
 
-### Cloud
+## Cloud
 
 + apaas.info
 + paas.info
@@ -50,8 +50,21 @@ http://www.portfolio.softreck.com
 ## B2B ecossytem
 
 + founder.pl
-+ szybkitermin.pl
++ foundation
++ opentowork
++ application
 
+## streaming
++ cobrowsing
++ webinairum.pl
+  + webcast.com.pl
+
+## zlecenia
++ korepetytorzy
++ pogotowie.net
++ polyglot
++ zlece.net
++ szybkitermin.pl
 
 ## Trainings
 
@@ -61,6 +74,7 @@ http://www.portfolio.softreck.com
 + refaktoryzacja
 
 ## Planowanie
+
 + harmonogram.pl
 + planawaryjny.pl - awaria elementu organizacji
 + plankryzysowy.pl - kryzys systemu
