@@ -57,12 +57,22 @@ http://www.portfolio.softreck.com
 
 ## Social media
 
-+ founder.pl
-+ daily.com.pl
-+ foundation
-+ opentowork
-+ application
-+ harmonogram.pl
++ foundation - platforma reseller'a
++ founder.pl - social media dla przedsiębiorców z usługami online
+  + z działalnością w polsce
+    + spółka
+      + REGON
+      + NIP
+    + osoba prywatna (freelancer)
+      + umowa o dzieło
+      + umowa najmu
+      + prawa autorskie
+  + w europie
+  + na świecie
++ daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
++ opentowork, aktywizacja zwodowa w europie
++ application, prezentacja oprgromawania wraz z cenami
++ harmonogram
 
 ## Zlecenia
 
@@ -83,7 +93,8 @@ http://www.portfolio.softreck.com
 
 
 # Informacyjne
-+ incydenty
++ incydenty - zgłoszenia o aktualnych zdarzeniach, incydentach bezpieczeństwa
++ devalert - zgłoszenia o lukach i ewentualnych skutkach
 
 
 ## Trainings
