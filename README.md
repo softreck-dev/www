@@ -71,7 +71,7 @@ http://www.portfolio.softreck.com
   + na świecie
 + daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
 + opentowork, aktywizacja zwodowa w europie
-+ application, prezentacja oprgromawania wraz z cenami
++ application.pl - oprogromawanie na sprzedaż, licencje, pobieranie
 + harmonogram
 
 ## Zlecenia
