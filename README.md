@@ -112,6 +112,11 @@ http://www.portfolio.softreck.com
 + planstrategii.pl - strategia dla biznesu
 + zaplanujbiznes.pl - plan na ekspansje
 
+## Domeny
+
+webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
+webtest.pl - domain checker
+kosztdomeny / odsprzedam: handel domenami i cyfrowymi uslugami
 
 
 
