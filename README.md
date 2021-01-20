@@ -122,9 +122,9 @@ http://www.portfolio.softreck.com
 
 ## Domeny
 
-webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
-kosztdomeny / webtest.pl - domain checker calculator
-odsprzedam.pl handel domenami i cyfrowymi uslugami
-
++ webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
++ kosztdomeny / webtest.pl - domain checker calculator
++ odsprzedam.pl - handel domenami i cyfrowymi uslugami
++ dns.info.pl - info o domenach, systemie w PL
 
 
