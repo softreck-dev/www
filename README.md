@@ -99,8 +99,10 @@ http://www.portfolio.softreck.com
 
 
 # Informacyjne
+
 + incydenty - zgłoszenia o aktualnych zdarzeniach, incydentach bezpieczeństwa
 + devalert - zgłoszenia o lukach i ewentualnych skutkach
++ blokadakonta - co zrobić, backupy, usługodawcy, alternatywne social media
 
 
 ## Trainings
@@ -121,8 +123,8 @@ http://www.portfolio.softreck.com
 ## Domeny
 
 webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
-webtest.pl - domain checker
-kosztdomeny / odsprzedam: handel domenami i cyfrowymi uslugami
+kosztdomeny / webtest.pl - domain checker calculator
+odsprzedam.pl handel domenami i cyfrowymi uslugami
 
 
 
