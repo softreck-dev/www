@@ -111,7 +111,8 @@ http://www.portfolio.softreck.com
 + decentralizacja
 + modularyzacja
 + refaktoryzacja
-
++ patterns
++ estimation
 
 ## Planowanie
 
