@@ -48,9 +48,15 @@ http://www.portfolio.softreck.com
 ## streaming / communication
 
 + cobrowsing
-+ webinairum.pl
-  + webcast.com.pl
-  
+  + Wordpress webppreview
+  + proxy
+  + password safe
+
++ webinairum.pl / frontend
+  + webcast.com.pl / jitsi
+
++ daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
+  + webmeet.pl / wb
   
   
 # B2B ecosystem
@@ -69,7 +75,7 @@ http://www.portfolio.softreck.com
       + prawa autorskie
   + w europie
   + na świecie
-+ daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
+
 + opentowork, aktywizacja zwodowa w europie
 + application.pl - oprogromawanie na sprzedaż, licencje, pobieranie
 + harmonogram
