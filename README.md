@@ -126,5 +126,5 @@ http://www.portfolio.softreck.com
 + kosztdomeny / webtest.pl - domain checker calculator
 + odsprzedam.pl - handel domenami i cyfrowymi uslugami
 + dns.info.pl - info o domenach, systemie w PL
-
++ rename - generator domen
 
