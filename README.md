@@ -75,6 +75,8 @@ http://www.portfolio.softreck.com
       + prawa autorskie
   + w europie
   + na świecie
+https://github.com/founder-pl/docs
+
 
 + opentowork, aktywizacja zwodowa w europie
 + application.pl - oprogromawanie na sprzedaż, licencje, pobieranie
