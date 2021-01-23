@@ -1,5 +1,5 @@
 # Welcome to Portfolio of Softreck Company
-http://www.softreck.dev
+https://softreck.dev
 
 # Technology ecosystem
 
