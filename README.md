@@ -61,9 +61,15 @@ https://softreck.dev
   
 # B2B ecosystem
 
-## Social media
+
+## Autoryzacja
 
 + foundation - platforma reseller'a
++ id.card.pl
+
+
+## Communication
+
 + founder.pl - social media dla przedsiębiorców z usługami online
   + z działalnością w polsce
     + spółka
@@ -107,14 +113,15 @@ https://github.com/founder-pl/docs
 + blokadakonta - co zrobić, backupy, usługodawcy, alternatywne social media
 
 
-## Trainings
+## Trainings for Technologies
 
 + modula.dev
-+ decentralizacja
-+ modularyzacja
-+ refaktoryzacja
-+ patterns
++ decentralizacja.pl
++ modularyzacja.pl
++ refaktoryzacja.pl
++ patterns.pl
 + estimation
+
 
 ## Planowanie
 
@@ -122,6 +129,7 @@ https://github.com/founder-pl/docs
 + plankryzysowy.pl - kryzys systemu
 + planstrategii.pl - strategia dla biznesu
 + zaplanujbiznes.pl - plan na ekspansje
+
 
 ## Domeny
 
