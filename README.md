@@ -74,10 +74,10 @@ https://softreck.dev
 + idcard.pl
   + member
   + subscription
-  + oauth
+  + implementacja oauth
 
 + oauth.pl
-  + wsparcie merytoryczne
+  + wsparcie merytoryczne dla idcard.pl
 
 ## Communication
 
