@@ -71,7 +71,8 @@ https://softreck.dev
 
 + foundation - platforma reseller'a
 
-+ idcard.pl
++ idcard.pl [Cel powstania projektu idcard.pl | docs](https://docs.idcard.pl/)
+
   + member
   + subscription
   + implementacja oauth
