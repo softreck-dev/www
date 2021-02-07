@@ -27,7 +27,7 @@ https://softreck.dev
 + devopsterminal.com
 + edit.ovh
 + editor.ovh
-+ plainedit
+
 
 ## Libraries
 
@@ -40,18 +40,23 @@ https://softreck.dev
 + apaas.info
 + paas.info
 + paas.store
-+ serverless.ovh
 + faas.ovh
 + faas.shop
 + faasapp.com
++ serverless.ovh
+
 
 ## streaming / communication
 
-+ cobrowsing
++ cobrowse
+  + rozwiązanie
   + Wordpress webppreview
   + proxy
   + password safe
-
+ 
++ cobrowsing, 
+  + teoria, jak to dziala
+  
 + webinairum.pl / frontend
   + webcast.com.pl / jitsi
 
@@ -65,8 +70,14 @@ https://softreck.dev
 ## Autoryzacja
 
 + foundation - platforma reseller'a
-+ id.card.pl
 
++ idcard.pl
+  + member
+  + subscription
+  + oauth
+
++ oauth.pl
+  + wsparcie merytoryczne
 
 ## Communication
 
