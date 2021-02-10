@@ -3,11 +3,11 @@
 + [softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/)
 
 
-# Technology ecosystem
 
-## Education
 
-### Education PL
+# Education
+
+## Education PL
 
 + decentralizacja.pl
 + modularyzacja.pl
@@ -15,11 +15,14 @@
 + patterns.pl
 
 
-### Education EN
+## Education EN
 
 + legacycode.info
 
-### API FOUNDATION
+
+# Technology ecosystem
+
+## API FOUNDATION
 
 + apibuild.com
 + apicra.com
@@ -31,7 +34,7 @@
 + apiunit.com
 
 
-### Apps / Tools
+## Apps / Tools
 
 + plainedit.com
 + promagen.com
@@ -40,25 +43,17 @@
 + editor.ovh
 
 
-### Libraries
+## Libraries
 
 + pyfunc.com
 + phpfunc.com
 + javafunc.com
 
 
-# Projects
 
-## Streaming Interface of application
-Subsystem for using jloads solution
+# Cloud
 
-+ jloads.com
-+ jbodys.com
-+ jruns.com
-
-## Cloud
-
-### Education
+## Education
 
 + serverless.ovh
 + apaas.info
@@ -66,15 +61,23 @@ Subsystem for using jloads solution
 + faas.ovh
 
 
-### Marketplace
+## Marketplace
 
 + paas.store
 + faas.shop
 + faasapp.com
 
 
+# Streaming
 
-## streaming / communication
+## app streaming / Interface of application
+Subsystem for using jloads solution
+
++ jloads.com
++ jbodys.com
++ jruns.com
+
+## video streaming / communication
 
 + cobrowse
   + rozwiązanie
@@ -90,6 +93,7 @@ Subsystem for using jloads solution
 
 + daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
   + webmeet.pl / wb
+  
   
   
 # B2B ecosystem
@@ -136,19 +140,19 @@ https://github.com/founder-pl/docs
 + harmonogram
 
 
-## Services / Zlecenia
+# Services / Zlecenia
 
-Education
+## Education
+
 + edukatorzy
 + korepetytorzy
 + polyglot
 
-Another
+## Another
 + pogotowie.net
 + zlece.net
 + szybkitermin.pl
 + dobryprogramista.pl
-
 
 
 ## Domains
@@ -158,6 +162,7 @@ Another
 + odsprzedam.pl - handel domenami i cyfrowymi uslugami
 + dns.info.pl - info o domenach, systemie w PL
 + rename - generator domen
+
 
 
 
@@ -178,15 +183,16 @@ Another
 + blokadakonta - co zrobić, backupy, usługodawcy, alternatywne social media
 
 
+
 # Services
 
-## Trainings for Technologies
+## Trainings for Technologies / consulting
 
 + modula.dev
 + estimation
 
 
-## Planning
+## Planning / digital products
 
 + planawaryjny.pl - awaria elementu organizacji
 + plankryzysowy.pl - kryzys systemu
