@@ -24,9 +24,23 @@ Subsystem for using jloads solution
 ## Education EN
 
 + legacycode.info
+
+
+## Cloud Education
+
 + serverless.ovh
 + apaas.info
 + paas.info
++ faas.ovh
+
+
+## Cloud Marketplace
+
++ paas.store
++ faas.shop
++ faasapp.com
+
+
 
 
 ## API FOUNDATION
@@ -55,15 +69,6 @@ Subsystem for using jloads solution
 + pyfunc.com
 + phpfunc.com
 + javafunc.com
-
-
-## Cloud
-
-+ paas.store
-+ faas.ovh
-+ faas.shop
-+ faasapp.com
-
 
 
 
