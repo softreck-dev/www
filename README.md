@@ -1,6 +1,6 @@
 # Welcome to Portfolio of Softreck Company
 + [softreck.dev](https://softreck.dev)
-+ [softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/README.html)
++ [softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/)
 
 # Technology ecosystem
 
