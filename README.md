@@ -22,7 +22,7 @@
 
 # Technology ecosystem
 
-## API FOUNDATION
+## API FOUNDATION / definitions
 
 + apibuild.com
 + apicra.com
@@ -34,7 +34,7 @@
 + apiunit.com
 
 
-## Apps / Tools
+## Tools / OSS applications
 
 + plainedit.com
 + promagen.com
@@ -43,7 +43,7 @@
 + editor.ovh
 
 
-## Libraries
+## Libraries / sourcode
 
 + pyfunc.com
 + phpfunc.com
@@ -66,6 +66,7 @@
 + paas.store
 + faas.shop
 + faasapp.com
+
 
 
 # Streaming
@@ -138,6 +139,7 @@ https://github.com/founder-pl/docs
 + opentowork, aktywizacja zwodowa w europie
 
 + harmonogram
+
 
 
 # Services / Zlecenia
