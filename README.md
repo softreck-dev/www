@@ -1,5 +1,6 @@
 # Welcome to Portfolio of Softreck Company
-https://softreck.dev
+[softreck.dev](https://softreck.dev)
+[softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/)
 
 # Technology ecosystem
 
@@ -67,9 +68,9 @@ https://softreck.dev
 # B2B ecosystem
 
 
-## Autoryzacja
+## HUB
 
-+ foundation - platforma reseller'a
++ gitcast - sposnorowanie projektów opensource
 
 + idcard.pl [Cel powstania projektu idcard.pl | docs](https://docs.idcard.pl/)
 
@@ -80,9 +81,16 @@ https://softreck.dev
 + oauth.pl
   + wsparcie merytoryczne dla idcard.pl
 
++ application.pl - sprzedaż oprogromawania, licencje, pobieranie
+
++ odsprzedam.pl - sprzedaż biznesów
+
+
 ## Communication
 
-+ founder.pl - social media dla przedsiębiorców z usługami online
++ foundation - platforma reseller'a
+
++ *.pl - social media dla przedsiębiorców z usługami online
   + z działalnością w polsce
     + spółka
       + REGON
@@ -97,14 +105,19 @@ https://github.com/founder-pl/docs
 
 
 + opentowork, aktywizacja zwodowa w europie
-+ application.pl - oprogromawanie na sprzedaż, licencje, pobieranie
+
 + harmonogram
 
-## Zlecenia
 
+## Services / Zlecenia
+
+Education
++ edukatorzy
 + korepetytorzy
-+ pogotowie.net
 + polyglot
+
+Another
++ pogotowie.net
 + zlece.net
 + szybkitermin.pl
 + dobryprogramista.pl
@@ -118,7 +131,7 @@ https://github.com/founder-pl/docs
 + mikrokontrakty
 
 
-# Informacyjne
+# Information
 
 + incydenty - zgłoszenia o aktualnych zdarzeniach, incydentach bezpieczeństwa
 + devalert - zgłoszenia o lukach i ewentualnych skutkach
@@ -135,7 +148,7 @@ https://github.com/founder-pl/docs
 + estimation
 
 
-## Planowanie
+## Planning
 
 + planawaryjny.pl - awaria elementu organizacji
 + plankryzysowy.pl - kryzys systemu
@@ -143,7 +156,7 @@ https://github.com/founder-pl/docs
 + zaplanujbiznes.pl - plan na ekspansje
 
 
-## Domeny
+## Domains
 
 + webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
 + kosztdomeny / webtest.pl - domain checker calculator
