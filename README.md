@@ -124,19 +124,33 @@ Another
 
 
 
-# Aggregatory
+## Domains
+
++ webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
++ kosztdomeny / webtest.pl - domain checker calculator
++ odsprzedam.pl - handel domenami i cyfrowymi uslugami
++ dns.info.pl - info o domenach, systemie w PL
++ rename - generator domen
+
+
+# Media Channels
+
+
+## Aggregatory
 
 + mikrouslugi
 + mikrotransakcje
 + mikrokontrakty
 
 
-# Information
+## Informations
 
 + incydenty - zgłoszenia o aktualnych zdarzeniach, incydentach bezpieczeństwa
 + devalert - zgłoszenia o lukach i ewentualnych skutkach
 + blokadakonta - co zrobić, backupy, usługodawcy, alternatywne social media
 
+
+# Services
 
 ## Trainings for Technologies
 
@@ -155,12 +169,4 @@ Another
 + planstrategii.pl - strategia dla biznesu
 + zaplanujbiznes.pl - plan na ekspansje
 
-
-## Domains
-
-+ webportfolio.pl - sprzedaz cyfrowych produktow - multivendor
-+ kosztdomeny / webtest.pl - domain checker calculator
-+ odsprzedam.pl - handel domenami i cyfrowymi uslugami
-+ dns.info.pl - info o domenach, systemie w PL
-+ rename - generator domen
 
