@@ -5,15 +5,9 @@
 
 # Technology ecosystem
 
+## Education
 
-## Streaming Interface of application
-Subsystem for using jloads solution
-
-+ jloads.com
-+ jbodys.com
-+ jruns.com
-
-## Education PL
+### Education PL
 
 + decentralizacja.pl
 + modularyzacja.pl
@@ -21,29 +15,11 @@ Subsystem for using jloads solution
 + patterns.pl
 
 
-## Education EN
+### Education EN
 
 + legacycode.info
 
-
-## Cloud Education
-
-+ serverless.ovh
-+ apaas.info
-+ paas.info
-+ faas.ovh
-
-
-## Cloud Marketplace
-
-+ paas.store
-+ faas.shop
-+ faasapp.com
-
-
-
-
-## API FOUNDATION
+### API FOUNDATION
 
 + apibuild.com
 + apicra.com
@@ -55,7 +31,7 @@ Subsystem for using jloads solution
 + apiunit.com
 
 
-## Apps / Tools
+### Apps / Tools
 
 + plainedit.com
 + promagen.com
@@ -64,11 +40,37 @@ Subsystem for using jloads solution
 + editor.ovh
 
 
-## Libraries
+### Libraries
 
 + pyfunc.com
 + phpfunc.com
 + javafunc.com
+
+
+# Projects
+
+## Streaming Interface of application
+Subsystem for using jloads solution
+
++ jloads.com
++ jbodys.com
++ jruns.com
+
+## Cloud
+
+### Education
+
++ serverless.ovh
++ apaas.info
++ paas.info
++ faas.ovh
+
+
+### Marketplace
+
++ paas.store
++ faas.shop
++ faasapp.com
 
 
 
