@@ -2,7 +2,23 @@
 + [softreck.dev](https://softreck.dev)
 + [softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/)
 
+
 # Technology ecosystem
+
+
+## Streaming Interface of application
+
+Subsystem for using jloads solution
+
++ legacycode.info
++ jloads.com
+
++ jbodys.com
+
++ serverless.ovh
++ jruns.com
+
+
 
 ## API FOUNDATION
 
@@ -15,11 +31,6 @@
 + apisql.com
 + apiunit.com
 
-## Subsystem for using jloads solution
-
-+ jbodys.com
-+ jloads.com
-+ jruns.com
 
 ## Apps / Tools
 
@@ -36,6 +47,7 @@
 + phpfunc.com
 + javafunc.com
 
+
 ## Cloud
 
 + apaas.info
@@ -44,7 +56,14 @@
 + faas.ovh
 + faas.shop
 + faasapp.com
-+ serverless.ovh
+
+
+## Education
+
++ decentralizacja.pl
++ modularyzacja.pl
++ refaktoryzacja.pl
++ patterns.pl
 
 
 ## streaming / communication
@@ -133,6 +152,7 @@ Another
 + rename - generator domen
 
 
+
 # Media Channels
 
 
@@ -155,10 +175,6 @@ Another
 ## Trainings for Technologies
 
 + modula.dev
-+ decentralizacja.pl
-+ modularyzacja.pl
-+ refaktoryzacja.pl
-+ patterns.pl
 + estimation
 
 
