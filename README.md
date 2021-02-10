@@ -70,7 +70,7 @@
 
 ## HUB
 
-+ idcard.pl [Cel powstania projektu idcard.pl | docs](https://docs.idcard.pl/)
++ idcard.pl [Cel powstania projektu idcard.pl](https://docs.idcard.pl/)
 
   + member
   + subscription
@@ -90,7 +90,7 @@
 
 + foundation - platforma reseller'a
 
-+ *.pl - social media dla przedsiębiorców z usługami online
++ .pl - social media dla przedsiębiorców z usługami online
   + z działalnością w polsce
     + spółka
       + REGON
