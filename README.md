@@ -70,20 +70,20 @@
 
 ## HUB
 
-+ gitcast - sposnorowanie projektów opensource
-
 + idcard.pl [Cel powstania projektu idcard.pl | docs](https://docs.idcard.pl/)
 
   + member
   + subscription
   + implementacja oauth
 
-+ oauth.pl
-  + wsparcie merytoryczne dla idcard.pl
+  + oauth.pl
+    + wsparcie merytoryczne dla idcard.pl
 
-+ application.pl - sprzedaż oprogromawania, licencje, pobieranie
++ gitcast - sponsorowanie projektów opensource
 
-+ odsprzedam.pl - sprzedaż biznesów
++ application.pl - informacje o oprogromawaniu na sprzedaż, licencje, pobieranie
+
++ odsprzedam.pl - sprzedaż biznesów i oprogramowani
 
 
 ## Communication
