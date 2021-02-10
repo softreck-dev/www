@@ -7,17 +7,26 @@
 
 
 ## Streaming Interface of application
-
 Subsystem for using jloads solution
 
-+ legacycode.info
 + jloads.com
-
 + jbodys.com
-
-+ serverless.ovh
 + jruns.com
 
+## Education PL
+
++ decentralizacja.pl
++ modularyzacja.pl
++ refaktoryzacja.pl
++ patterns.pl
+
+
+## Education EN
+
++ legacycode.info
++ serverless.ovh
++ apaas.info
++ paas.info
 
 
 ## API FOUNDATION
@@ -50,20 +59,12 @@ Subsystem for using jloads solution
 
 ## Cloud
 
-+ apaas.info
-+ paas.info
 + paas.store
 + faas.ovh
 + faas.shop
 + faasapp.com
 
 
-## Education
-
-+ decentralizacja.pl
-+ modularyzacja.pl
-+ refaktoryzacja.pl
-+ patterns.pl
 
 
 ## streaming / communication
