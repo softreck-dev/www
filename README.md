@@ -102,21 +102,24 @@ Subsystem for using jloads solution
 
 ## HUB
 
-+ idcard.pl [Cel powstania projektu idcard.pl](https://docs.idcard.pl/)
++ oAuth.pl
+    + wsparcie merytoryczne dla idcard.pl
+
+
++ idCard.pl [Cel powstania projektu idcard.pl](https://docs.idcard.pl/)
 
   + member
   + subscription
   + implementacja oauth
 
-  + oauth.pl
-    + wsparcie merytoryczne dla idcard.pl
-
-+ gitcast - sponsorowanie projektów opensource
 
 + application.pl - informacje o oprogromawaniu na sprzedaż, licencje, pobieranie
 
 + odsprzedam.pl - sprzedaż biznesów i oprogramowani
 
++ gitcast.pl
+  + sponsorowanie projektów opensource
+  + wsparcie projektów Open Source
 
 ## Communication
 
