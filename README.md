@@ -101,6 +101,9 @@ Subsystem for using jloads solution
 
 
 ## HUB
+Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
+Z czasem wszystko co bedzie w ecommerce będzie możliwe do zintegrowania z naszym idCard a poprzez to z rynkiem zbytu na usługi partnerów.
+Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanowić skuteczną konkurencję.
 
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl
