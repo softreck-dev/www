@@ -113,13 +113,16 @@ Subsystem for using jloads solution
   + implementacja oauth
 
 
-+ application.pl - informacje o oprogromawaniu na sprzedaż, licencje, pobieranie
++ application.pl 
+  + informacje o oprogromawaniu na sprzedaż, licencje, pobieranie
 
-+ odsprzedam.pl - sprzedaż biznesów i oprogramowani
++ odsprzedam.pl 
+  + sprzedaż biznesów , stron www, oprogramowania
 
 + gitcast.pl
-  + sponsorowanie projektów opensource
-  + wsparcie projektów Open Source
+  + reklamowanie i sponsorowanie projektów OpenSource
+  
+  
 
 ## Communication
 
