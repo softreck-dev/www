@@ -97,13 +97,14 @@ Subsystem for using jloads solution
   
   
   
-# B2B ecosystem
+
+# SaaS integration ecosystem with partners
 
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
 
-## OpenSource Dev Ecosystem
+## Free OpenSource  Ecosystem
 
 + gitcast.pl
   + reklamowanie i sponsorowanie projektów OpenSource
@@ -121,7 +122,8 @@ Subsystem for using jloads solution
 + aPaaS.pl
   + deployment for apps based on apicra.com / apiBuild.com
   
-## Business Dev Ecosystem
+  
+## Non-free Business SaaS Ecosystem
 Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
 Z czasem wszystko co bedzie w ecommerce będzie możliwe do zintegrowania z naszym idCard a poprzez to z rynkiem zbytu na usługi partnerów.
 Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanowić skuteczną konkurencję.
@@ -142,6 +144,7 @@ Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanow
   + sprzedaż biznesów , stron www, oprogramowania
   
   
+# B2B ecosystem
 
 ## Communication
 
