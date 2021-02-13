@@ -99,14 +99,33 @@ Subsystem for using jloads solution
   
 # B2B ecosystem
 
++ oAuth.pl
+    + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
-## HUB
+
+## OpenSource Dev Ecosystem
+
++ gitcast.pl
+  + reklamowanie i sponsorowanie projektów OpenSource
+
++ subscription.pl
+  free support for oaurh on Opensource applications
+  + member
+  + subscription
+  + implementacja oauth
+
++ application.pl 
+  + free apps with access from subscription.pl
+  + deployment directly from github
+  
++ ipaas.pl
+  + deployment for apps based on apicra.com
+
+
+## Business Dev Ecosystem
 Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
 Z czasem wszystko co bedzie w ecommerce będzie możliwe do zintegrowania z naszym idCard a poprzez to z rynkiem zbytu na usługi partnerów.
 Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanowić skuteczną konkurencję.
-
-+ oAuth.pl
-    + wsparcie merytoryczne dla idcard.pl
 
 
 + idCard.pl [Cel powstania projektu idcard.pl](https://docs.idcard.pl/)
@@ -117,13 +136,11 @@ Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanow
 
 
 + application.pl 
-  + informacje o oprogromawaniu na sprzedaż, licencje, pobieranie
+  + oprogramowanie bazujące na subskrypcji idCard.pl  
 
-+ odsprzedam.pl 
++ odsprzedam.pl   
+  + oprogramowanie na sprzedaż, licencje, pobieranie
   + sprzedaż biznesów , stron www, oprogramowania
-
-+ gitcast.pl
-  + reklamowanie i sponsorowanie projektów OpenSource
   
   
 
