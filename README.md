@@ -117,9 +117,14 @@ Cel na 2021 jest:
   + co tydzien w piątek wybranie projektu, które wygrywa nagrodę - rok autodeploymentu na apaas.pl z możliwością przedłużenia, jeśli projekt będzie się rozwijał
   
 
++ devalert
+  + newsletter
+  + zgłoszenia o lukach i ewentualnych skutkach
+
+
 + subscription.pl
   + free support for oauth on Opensource applications
-  + member
+  + member support dla application
   + subscription
   + implementacja: oauth
 
@@ -217,7 +222,6 @@ https://github.com/founder-pl/docs
 ## Informations
 
 + incydenty - zgłoszenia o aktualnych zdarzeniach, incydentach bezpieczeństwa
-+ devalert - zgłoszenia o lukach i ewentualnych skutkach
 + blokadakonta - co zrobić, backupy, usługodawcy, alternatywne social media
 
 
