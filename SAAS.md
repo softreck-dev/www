@@ -3,7 +3,7 @@
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
-+ GitPps.pl
++ GitOps.pl
     + wsparcie dla aPaaS.pl, jak działa 
     + descirptions for aPaaS solution
     
