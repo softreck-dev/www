@@ -3,6 +3,18 @@
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
++ GitPps.pl
+    + wsparcie dla aPaaS.pl, jak działa 
+    + descirptions for aPaaS solution
+    
++ daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
+  + webmeet.pl / wb
+   
++ foundation.pl
+    + platforma reseller'a
+    + rozliczanie VPS dla application.pl
+    + intergacja z iPaaS.pl
+        
 
 ## Free OpenSource  Ecosystem
 Ecosystem dla programistów szukających rozwiązania dla ich deploymentu
@@ -39,9 +51,12 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   
   
 + aPaaS.pl
+  + GitOps implementation
+  + Opensource solution for deployment directly from github
   + deployment directly from github to application servers
   + deployment for apps based on apicra.com / apiBuild.com
-  
+
+
   
 ## Non-free Business SaaS Ecosystem
 Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
