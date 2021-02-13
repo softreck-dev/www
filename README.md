@@ -118,10 +118,9 @@ Subsystem for using jloads solution
   + free apps with access from subscription.pl
   + deployment directly from github
   
-+ ipaas.pl
-  + deployment for apps based on apicra.com
-
-
++ aPaaS.pl
+  + deployment for apps based on apicra.com / apiBuild.com
+  
 ## Business Dev Ecosystem
 Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
 Z czasem wszystko co bedzie w ecommerce będzie możliwe do zintegrowania z naszym idCard a poprzez to z rynkiem zbytu na usługi partnerów.
@@ -227,4 +226,12 @@ https://github.com/founder-pl/docs
 + planstrategii.pl - strategia dla biznesu
 + zaplanujbiznes.pl - plan na ekspansje
 
+
+# DOCS:
+
++ aPaaS allows for rapid application development and delivery. This form has high productivity and high control. The coding process for platforms as a service can slow down delivery, but aPaaS brings automation for the application lifecycle. aPaaS offers a faster way to build apps.
+
++ SaaS has a main difference of being hosted by a vendor where iPaaS is cloud-based. Applications that are on-premise hosted can be integrated and allow for free flow of data. The application or service is made available to customers over a network, usually the internet.
+
++ iPaaS is a cloud-based integration solution, unlike SaaS which is hosted by a vendor on-premise. It iPaaS allows applications that reside on the cloud or on-premise to integrate and have data flow freely between them. It does not need any download, it is simply deployed. This is the most balanced offering because it can bring differently hosted software solutions or applications together.
 
