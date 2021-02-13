@@ -111,13 +111,13 @@ Cel na 2021 jest:
 + kilkadziesiat serwerów z dostępem przez oAuth dla uzytkowników z subscription.pl
 
 + gitcast.pl
-  + cel, reklamowanie i sponsorowanie projektów OpenSource
+  + blog informacyjny oraz udostepnianie na social mediach 
+  + sponsorowanie projektów OpenSource
   + publikowanie nominowanych projektów, za nominację donate na projekcie w Github
   + każdego dnia od Poniedziałku do Czwartku publikowane projekty
   + co tydzien w piątek wybranie projektu, które wygrywa nagrodę - rok autodeploymentu na apaas.pl z możliwością przedłużenia, jeśli projekt będzie się rozwijał
   
-
-+ devalert
++ devalert.pl
   + newsletter
   + zgłoszenia o lukach i ewentualnych skutkach
 
@@ -129,10 +129,13 @@ Cel na 2021 jest:
   + implementacja: oauth
 
 + application.pl 
+  + access over subscription.pl
+  + catalog of applications
   + free apps with access from subscription.pl
-  + deployment directly from github
+  
   
 + aPaaS.pl
+  + deployment directly from github to application servers
   + deployment for apps based on apicra.com / apiBuild.com
   
   
