@@ -115,9 +115,11 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + każdego tygodnia 4 nominacje
     + każdego dnia od Poniedziałku do Czwartku nominowany jest 1 projekt
     + za nominację donate na projekcie w Github, sponsorowanie projektów OpenSource
-    + publikacj informacji na blogu o nominowanych projektach    
-  + co tydzien w piątek zostaje wybrany zwycięzca, który otrzymuje rok autodeploymentu na aPaaS.pl
+    + publikacja na blogu o projektach
+  + co tydzien w piątek zostaje wybrany zwycięzca
+    + który otrzymuje rok autodeploymentu na aPaaS.pl
     + z możliwością przedłużenia, jeśli projekt będzie się rozwijał
+    + obszerny artykuł o teamie, planach, promocja na social media
   
 + devalert.pl
   + newsletter
