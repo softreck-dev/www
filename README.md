@@ -105,9 +105,17 @@ Subsystem for using jloads solution
 
 
 ## Free OpenSource  Ecosystem
+Ecosystem dla programistów szukających rozwiązania dla ich deploymentu
+Dzięki aPaaS możliwy jeszt szybki cykl oparty o małe VPS, zarządzane przez promagen
+Cel na 2021 jest:
++ kilkadziesiat serwerów z dostępem przez oAuth dla uzytkowników z subscription.pl
 
 + gitcast.pl
-  + reklamowanie i sponsorowanie projektów OpenSource
+  + cel: reklamowanie i sponsorowanie projektów OpenSource
+  + publikowanie nominowanych projektów, za nominację donate na projekcie w Github
+  + każdego dnia od Poniedziałku do Czwartku publikowane projekty
+  + co tydzien w piątek wybranie projektu, które wygrywa nagrodę - rok autodeploymentu na apaas.pl z możliwością przedłużenia, jeśli projekt będzie się rozwijał
+  
 
 + subscription.pl
   free support for oaurh on Opensource applications
