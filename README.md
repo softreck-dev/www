@@ -19,6 +19,7 @@
 + patterns.pl
 
 
+
 ## Education EN
 
 + legacycode.info
@@ -137,7 +138,7 @@ https://github.com/founder-pl/docs
 
 + incydenty - zgłoszenia o aktualnych zdarzeniach, incydentach bezpieczeństwa
 + blokadakonta - co zrobić, backupy, usługodawcy, alternatywne social media
-
++ audytprojektu
 
 
 # Services
