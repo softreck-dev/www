@@ -47,12 +47,15 @@
 
 
 ## OpenSource Deployment Ecosystem
+
+### Co to jest?
+Ekosystem technologiczny dla otwartego oprogramowania Opensource
+
+### Dla kogo?
 Ekosystem dla 3 grup użytkowników:
 + programistów chcących udostępnić swój projekt do szersszego wykorzystania
 + użytkowników chcących używać orpgramowania bez udziału programistów czy adminstartorów a jednoczenie
 + mieć dostep online do obsługi technicznej w celu ułatwienia korzystania z ekosystemu jak i przy rozwiązaywaniu codziennych problemów
-
-### Ekosystem technologiczny dla otwartego oprogramowania Opensource
 
 Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać bez udziału programistów
 Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
