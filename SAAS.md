@@ -52,7 +52,7 @@ Ekosystem dla 3 grup użytkowników:
 + użytkowników chcących używać orpgramowania bez udziału programistów czy adminstartorów a jednoczenie
 + mieć dostep online do obsługi technicznej w celu ułatwienia korzystania z ekosystemu jak i przy rozwiązaywaniu codziennych problemów
 
-### Ekosystem dla użytkowników
+### Ekosystem technologiczny dla otwartego oprogramowania Opensource
 
 Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać bez udziału programistów
 Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
