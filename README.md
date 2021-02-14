@@ -16,8 +16,10 @@
 + decentralizacja.pl
 + modularyzacja.pl
 + refaktoryzacja.pl
++ refaktoring.pl
 + patterns.pl
 + codereview
+
 
 
 ## Education EN
