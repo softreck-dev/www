@@ -15,6 +15,12 @@
 + GitOps.pl
     + wsparcie dla aPaaS.pl, jak działa 
     + descirptions for aPaaS solution
+
++ wdrozenie.pl   
+    + metody, technologie
+    + organizacje, projekty
+    + ludzie, experci, devops
+   
    
    
 ## Support for users
@@ -46,7 +52,7 @@
   + zgłoszenia o lukach i ewentualnych skutkach
 
 
-## OpenSource Deployment Ecosystem
+## upCloud.pl, OpenSource Deployment Ecosystem
 
 ### Co to jest?
 Ekosystem technologiczny dla otwartego oprogramowania Opensource
