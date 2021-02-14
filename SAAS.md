@@ -1,5 +1,7 @@
 # SaaS integration ecosystem with partners
 
+## Information about technologies
+
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
@@ -9,6 +11,8 @@
     + descirptions for aPaaS solution
    
    
+## Support for users
+
 + daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
   + webmeet.pl / wb
    
@@ -74,7 +78,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 
   
-## Non-free Business SaaS Ecosystem
+## Business SaaS Ecosystem
 Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
 Z czasem wszystko co bedzie w ecommerce będzie możliwe do zintegrowania z naszym idCard a poprzez to z rynkiem zbytu na usługi partnerów.
 Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanowić skuteczną konkurencję.
@@ -87,7 +91,7 @@ Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanow
   + implementacja oauth
 
 
-+ application.pl 
++ application.pl ?
   + oprogramowanie bazujące na subskrypcji idCard.pl  
 
 + odsprzedam.pl   
