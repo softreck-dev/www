@@ -26,9 +26,14 @@
 
 # Cloud
 
-## Education
 
+## General
+
++ chmury.com.pl
 + serverless.ovh
+
+## Types
+
 + aPaaS.info
 + PaaS.info
 + FaaS.ovh
