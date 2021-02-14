@@ -28,16 +28,18 @@
 ## Education
 
 + serverless.ovh
-+ apaas.info
-+ paas.info
-+ faas.ovh
++ aPaaS.info
++ PaaS.info
++ FaaS.ovh
++ iPaaS.pl
++ aPaaS.pl
 
 
 ## Marketplace
 
-+ paas.store
-+ faas.shop
-+ faasapp.com
++ PaaS.store
++ FaaS.shop
++ FaaSapp.com
 
 
 
