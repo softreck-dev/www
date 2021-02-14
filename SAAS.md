@@ -3,24 +3,21 @@
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
+
 + GitOps.pl
     + wsparcie dla aPaaS.pl, jak działa 
     + descirptions for aPaaS solution
-    
+   
+   
 + daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
   + webmeet.pl / wb
+   
    
 + foundation.pl
     + platforma reseller'a
     + rozliczanie VPS dla application.pl
     + intergacja z iPaaS.pl
         
-
-## Free OpenSource  Ecosystem
-Ecosystem dla programistów szukających rozwiązania dla ich deploymentu
-Dzięki aPaaS możliwy jeszt szybki cykl oparty o małe VPS, zarządzane przez promagen
-
-Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkowników z subscription.pl
 
 + gitcast.pl
   + blog informacyjny oraz udostepnianie na social mediach 
@@ -32,17 +29,36 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
     + który otrzymuje rok autodeploymentu na aPaaS.pl
     + z możliwością przedłużenia, jeśli projekt będzie się rozwijał
     + obszerny artykuł o teamie, planach, promocja na social media
-  
+
+
 + devalert.pl
   + newsletter
   + zgłoszenia o lukach i ewentualnych skutkach
+
+
+## OpenSource Deployment Ecosystem
+Ekosystem dla 3 grup użytkowników:
++ programistów chcących udostępnić swój projekt do szersszego wykorzystania
++ użytkowników chcących używać orpgramowania bez udziału programistów czy adminstartorów a jednoczenie
++ mieć dostep online do obsługi technicznej w celu ułatwienia korzystania z ekosystemu jak i przy rozwiązaywaniu codziennych problemów
+
+### Ekosystem dla użytkowników
+szukających rozwiązania dla narzędzi tymczasowych, którz echciliby używać bez udziału programistów
+
+
+Ecosystem dla programistów szukających rozwiązania dla ich deploymentu
+Dzięki aPaaS możliwy jeszt szybki cykl oparty o małe VPS, zarządzane przez promagen
+
+Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkowników z subscription.pl
+
 
 
 + subscription.pl
   + free support for oauth on Opensource applications
   + member support dla application
   + subscription
-  + implementacja: oauth
+  + implementacja: oAuth
+
 
 + application.pl 
   + access over subscription.pl
@@ -50,7 +66,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + free apps with access from subscription.pl
   
   
-+ aPaaS.pl
++ deployment.pl
   + GitOps implementation
   + Opensource solution for deployment directly from github
   + deployment directly from github to application servers
