@@ -53,30 +53,30 @@ Ekosystem dla 3 grup użytkowników:
 + mieć dostep online do obsługi technicznej w celu ułatwienia korzystania z ekosystemu jak i przy rozwiązaywaniu codziennych problemów
 
 ### Ekosystem dla użytkowników
-szukających rozwiązania dla narzędzi tymczasowych, którz echciliby używać bez udziału programistów
 
+Szukających rozwiązania dla narzędzi tymczasowych, które chcieliby używać bez udziału programistów
+Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
 
-Ecosystem dla programistów szukających rozwiązania dla ich deploymentu
-Dzięki aPaaS możliwy jeszt szybki cykl oparty o małe VPS, zarządzane przez promagen
+### Zasada działania
 
+Dzięki deployment.pl możliwy jeszt szybki cykl oparty o małe VPS, zarządzane przez ProMaGen.com
 Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkowników z subscription.pl
 
 
-
-+ subscription.pl
+#### subscription.pl
   + free support for oauth on Opensource applications
   + member support dla application
   + subscription
   + implementacja: oAuth
 
 
-+ application.pl 
+#### application.pl 
   + access over subscription.pl
   + catalog of applications
   + free apps with access from subscription.pl
   
   
-+ deployment.pl
+#### deployment.pl
   + GitOps implementation
   + Opensource solution for deployment directly from github
   + deployment directly from github to application servers
@@ -85,6 +85,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
   
 ## Business SaaS Ecosystem
+
 Ecosystem na początku będzie oparty o Polskich usługodawców działających w modelu SaaS 
 Z czasem wszystko co bedzie w ecommerce będzie możliwe do zintegrowania z naszym idCard a poprzez to z rynkiem zbytu na usługi partnerów.
 Ten system to nasza odpowiedź dla gigantów, że małe firmy razem mogą stanowić skuteczną konkurencję.
