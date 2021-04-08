@@ -4,7 +4,7 @@
 
 ## Projects
 + [SAAS](SAAS.html)
-+ [API-FOUNDATION Projects / Technology ecosystem | git](https://git.apifoundation.com/)
++ [API-FOUNDATION Projects / Technology ecosystem - git](https://git.apifoundation.com/)
 
 
 
