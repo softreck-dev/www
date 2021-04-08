@@ -1,5 +1,5 @@
 # Welcome to Portfolio of Softreck Company
-+ [CLA - Contributing to Softreck Projects](https://cla.softreck.dev/)
++ [CLA - contributor license agreement- Contributing to Softreck Projects](https://cla.softreck.dev/)
 + [softreck.dev](https://softreck.dev)
 + [softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/)
 
