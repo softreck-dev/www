@@ -1,9 +1,13 @@
-# Welcome to Portfolio of Softreck Company
-+ [CLA - contributor license agreement- Contributing to Softreck Projects](https://cla.softreck.dev/)
+# Welcome to Portfolio of [Softreck Company](https://softreck.com)
 + [softreck.dev](https://softreck.dev)
+
++ [CLA - contributor license agreement- Contributing to Softreck Projects](https://cla.softreck.dev/)
++ [WEBSITE TERMS OF USE - tos.softreck.dev](https://tos.softreck.dev/#/)
+
 + [softreck.github.io/softreck.dev/](https://softreck.github.io/softreck.dev/)
 
 ## Projects
+
 + [SAAS](SAAS.html)
 + [API-FOUNDATION git projects](https://git.apifoundation.com/)
 
